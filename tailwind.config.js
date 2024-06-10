@@ -7,7 +7,7 @@ module.exports = {
         'hero': "url('./Assets/carousel-2.jpg')"
       },
       fontFamily: {
-        lexend: ['Roboto', 'sans-serif']
+        roboto: ['Roboto', 'sans-serif']
       },
       colors: {
         "deepgreen": '#082214'
