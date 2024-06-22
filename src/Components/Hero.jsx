@@ -5,7 +5,7 @@ const Hero = () => {
     <section id="#home">
         <div className='mt-[80px]'>
             <div className='bg-[#000300] opacity- bg-blend-overlay'>
-                <div className="bg-hero bg-no-repeat bg-cover bg-center h-[60vh] md:h-[90vh]">
+                <div className="bg-hero bg-no-repeat bg-cover bg-center h-[75vh] md:h-[90vh]">
                     <div className='max-w-[1240px] md:mx-auto pt-[10rem] px-4 md:px-0'>
                         <p className='uppercase text-white font-bold p-2 font-lexend'>growing with data analytics</p>
                         <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-6 font-lexend'>Grow with data</h1>

@@ -56,6 +56,9 @@ const Footer = () => {
                     <label htmlFor="name" className='font-lexend'>Message</label>
                     <textarea name="" id="" cols="30" rows="5" className='p-1 flex w-full rounded-md text-black border border-deepgreen'></textarea>
                 </div>
+                <div className='lg:mb-10 mb-6 flex items-center justify-center md:items-left md:justify-start'>
+                    <button className='bg-[#1BB661] font-bold flex items-center justify-center px-10 py-3'>Submit</button>
+                </div>
             </div>
         </div>
     </div>
